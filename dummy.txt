@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+The Eiffel Tower is located in Paris, France.
+The capital of Japan is Tokyo, which is known for its cherry blossoms.
+Python was created by Guido van Rossum and first released in 1991.
+LangChain is a framework designed to simplify the creation of applications using large language models.
