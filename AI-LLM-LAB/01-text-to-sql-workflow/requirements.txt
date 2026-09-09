@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+sqlite3; python_version < "3.0"
+pytest
